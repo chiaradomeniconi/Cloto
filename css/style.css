@@ -78,3 +78,6 @@ footer, a {
 	text-align: left;
 }
 
+footer .row {
+	text-align: center;
+}	
